@@ -2,9 +2,11 @@
 Multidisciplinary Engineering class with requirements of remote-controlled vehicle design to complete "Cat's Conundrum Obstacle Course".
 Spring 2018
 Montana State University
-![OSHpark-Front](images/OSHParkTop.png)
-![OSHpark-Back](images/OSHParkBack.png)
-![EAGLE-top](images/topView.png)
+
+!(images/OSHParkTop.png)
+!(images/OSHParkBack.png)
+
+!(images/topView.png)
 
 EAGLE files for PCB for a motor board based on using the atmega328P microcontroller, DRV8833 motor driver, HM-11 Bluetooth LE module, and LSM6DS3TR accel/gyro.  
 The atmega328P is used as a finite state machine for direction and speed control.  
