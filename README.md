@@ -16,4 +16,4 @@ The board uses 3.3V for every device.
 There is a power kill-switch and jumper pin by the ISP1 to separate incoming 5V from other 3.3V devices when programming atmega328P. (TODO: alternative solution).
 TODO: 47 uF capacitor as 0805 too small. Some other capacitors sizing needs tweaking.
 
-![](images/topView.png)
+![](images/topView.PNG)
