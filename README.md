@@ -1,11 +1,12 @@
 # pwmCat-motorBoard
+NOTE: This is the 1st prototype and has not been verified for intended functionality, or other errors.
+
 Multidisciplinary Engineering class with requirements of remote-controlled vehicle design to complete "Cat's Conundrum Obstacle Course".
 Spring 2018
 Montana State University
 
 ![](images/OSHParkTop.png)
 ![](images/OSHParkBack.png)
-
 ![](images/topView.png)
 
 EAGLE files for PCB for a motor board based on using the atmega328P microcontroller, DRV8833 motor driver, HM-11 Bluetooth LE module, and LSM6DS3TR accel/gyro.  
