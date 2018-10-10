@@ -1,5 +1,4 @@
 # pwmCat-motorBoard
-NOTE: This is the 1st prototype and has not been verified for intended functionality, or other errors.
 
 Multidisciplinary Engineering class with requirements of remote-controlled vehicle design to complete "Cat's Conundrum Obstacle Course".
 Spring 2018
